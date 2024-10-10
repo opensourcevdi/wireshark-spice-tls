@@ -1,0 +1,3 @@
+[submodule "sslkeylogfile-preload"]
+	path = sslkeylogfile-preload
+	url = https://github.com/opensourcevdi/sslkeylogfile-preload
